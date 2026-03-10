@@ -1,3 +1,4 @@
 [
-  {"userid": "1", "Roblox": "roblox", "reason": "Exploiting"},
+  {"userid": "123456", "username": "PlayerName", "reason": "Exploiting", "banType": "normal", "duration": -1},
+  {"userid": "789012", "username": "AnotherPlayer", "reason": "Hacking", "banType": "pc", "duration": -1}
 ]
