@@ -1,4 +1,3 @@
 [
-  {"userid": "12345", "username": "PlayerName", "reason": "Exploiting"},
-  {"userid": "67890", "username": "OtherPlayer", "reason": "Harassment"}
+  {"userid": "1", "Roblox": "roblox", "reason": "Exploiting"},
 ]
