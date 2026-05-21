@@ -1,4 +1,144 @@
-[
-  {"userid": "123456", "username": "PlayerName", "reason": "Exploiting", "banType": "normal", "duration": -1},
-  {"userid": "789012", "username": "AnotherPlayer", "reason": "Hacking", "banType": "pc", "duration": -1}
-]
+{
+  "bans": [
+    {
+      "username": "Hoursrobloxnoobs",
+      "userId": "9379057947",
+      "reason": "R34 + 12 years + inappropriate image",
+      "bannedBy": "kynx4132",
+      "type": "permanent"
+    },
+    {
+      "username": "tfob",
+      "userId": "418090778",
+      "reason": "Alting and possible cheating. Appeal is only possible thru screensharing",
+      "bannedBy": "mazvtomat2020",
+      "type": "permanent"
+    },
+    {
+      "username": "coolplayer123487",
+      "userId": "10680954683",
+      "reason": "SKID SLOP BAN",
+      "bannedBy": "kynx4132",
+      "type": "permanent"
+    },
+    {
+      "username": "Roblox",
+      "userId": "1",
+      "reason": "goodbye banned",
+      "bannedBy": "kynx4132",
+      "type": "async"
+    },
+    {
+      "username": "miguelbot0097",
+      "userId": "10751285091",
+      "reason": "slop banned",
+      "bannedBy": "kynx4132",
+      "type": "permanent"
+    },
+    {
+      "username": "malakas1232",
+      "userId": "258999999",
+      "reason": "SKID SLOP BAN",
+      "bannedBy": "kynx4132",
+      "type": "permanent"
+    },
+    {
+      "username": "smetana_car",
+      "userId": "7157752113",
+      "reason": "slop 18+ neko",
+      "bannedBy": "kynx4132",
+      "type": "permanent"
+    },
+    {
+      "username": "Moon555211",
+      "userId": "2732602586",
+      "reason": "10000000000 years of server unbanned",
+      "bannedBy": "mazvtomat2020",
+      "type": "async"
+    },
+    {
+      "username": "redonblue",
+      "userId": "53165",
+      "reason": "bye",
+      "bannedBy": "mazvtomat2020",
+      "type": "async"
+    },
+    {
+      "username": "Bakonowychlopak123",
+      "userId": "1768834005",
+      "reason": "kynxYY the server kills so antiskid",
+      "bannedBy": "mazvtomat2020",
+      "type": "permanent"
+    },
+    {
+      "username": "jLn0n_RBLX",
+      "userId": "2346663041",
+      "reason": "unban block using KynxYY",
+      "bannedBy": "mazvtomat2020",
+      "type": "permanent"
+    },
+    {
+      "username": "1l0v3furrys",
+      "userId": "10556226130",
+      "reason": "is reason condo or furry",
+      "bannedBy": "kynx4132",
+      "type": "permanent"
+    },
+    {
+      "username": "adeepsn84",
+      "userId": "468723817",
+      "reason": "violation  c00lkidd/k00pkidd",
+      "bannedBy": "kynx4132",
+      "type": "permanent"
+    },
+    {
+      "username": "Karzinnnn",
+      "userId": "2915378564",
+      "reason": "violation neko gui",
+      "bannedBy": "kynx4132",
+      "type": "permanent"
+    },
+    {
+      "username": "TheFakeFew",
+      "userId": "3270554075",
+      "reason": "noob condo",
+      "bannedBy": "kynx4132",
+      "type": "permanent"
+    },
+    {
+      "username": "homersimpson_num1fan",
+      "userId": "3842688628",
+      "reason": "server banned",
+      "bannedBy": "mazvtomat2020",
+      "type": "permanent"
+    },
+    {
+      "username": "alinamina123",
+      "userId": "498111827",
+      "reason": "too friends banned",
+      "bannedBy": "kynx4132",
+      "type": "permanent"
+    },
+    {
+      "username": "abtinaghajery2012",
+      "userId": "2830609509",
+      "reason": "Server Destroyer",
+      "bannedBy": "kynx4132",
+      "type": "permanent"
+    },
+    {
+      "username": "chara666345",
+      "userId": "1195840300",
+      "reason": "you banned skiddsdssdd",
+      "bannedBy": "kynx4132",
+      "type": "permanent"
+    },
+    {
+      "username": "likoliko58",
+      "userId": "10861651605",
+      "reason": "well banned using admin",
+      "bannedBy": "kynx4132",
+      "type": "permanent"
+    }
+  ]
+}
